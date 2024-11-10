@@ -50,3 +50,8 @@ int main() {
 
     return 0;
 }
+
+
+/* to run this program use 
+g++ first1.cpp
+./a.out */
