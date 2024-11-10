@@ -80,3 +80,9 @@ void main() {
         }
     }
 }
+
+
+
+/* to run this program use 
+gcc worst3.c
+./a.out */
