@@ -82,3 +82,8 @@ void main() {
     
     getchar();  
 }
+
+
+/* to run this program use 
+gcc first1.c
+./a.out */
