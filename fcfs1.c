@@ -39,3 +39,8 @@ printf("\nAverage Turnaround Time -- %f", tatavg/n);
 printf("\nPress any key to exit...");
 getchar(); return 0;
 }
+
+
+/* to run this program use 
+gcc fcfs1.c
+./a.out */
