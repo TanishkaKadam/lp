@@ -55,3 +55,9 @@ printf("\nAverage Waiting Time: %.2f", wtavg);
 printf("\nAverage Turnaround Time: %.2f\n", tatavg);
 return 0;
 }
+
+
+
+/* to run this program use 
+gcc sjf2.c
+./a.out */
