@@ -75,3 +75,8 @@ int main() {
     
     return 0;
 }
+
+
+/* to run this program use 
+gcc fifo1.c
+./a.out    */
