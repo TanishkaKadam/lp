@@ -66,3 +66,9 @@ int main() {
 
     return 0;
 }
+
+
+
+/* to run this program use 
+g++ best2.cpp
+./a.out */
