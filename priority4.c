@@ -77,3 +77,8 @@ int main() {
     return 0;
 }
 
+
+
+/* to run this program use 
+gcc priority4.c
+./a.out */
