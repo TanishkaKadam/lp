@@ -58,3 +58,8 @@ printf("%d\t %d\t\t %d\t\t %d\n", i + 1, ct[i], wa[i], tat[i]);
 }
 return 0;
 }
+
+
+/* to run this program use 
+gcc roundrobin3.c
+./a.out */
