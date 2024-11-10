@@ -71,3 +71,9 @@ int main() {
 
     return 0;
 }
+
+
+
+/* to run this program use 
+g++ worst3.cpp
+./a.out */
