@@ -72,3 +72,8 @@ void main() {
         }
     }
 }
+
+
+/* to run this program use 
+gcc best2.c
+./a.out */
